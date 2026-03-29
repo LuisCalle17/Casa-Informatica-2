@@ -17,8 +17,8 @@ numero = int(input("Ingrese un número entero: "))
 cuadrado = math.pow(numero,2)
 cubo = math.pow(numero,3)
 
-print(f"El cuadrado del número es '{cuadrado}'")
-print(f"El cubo del número {cubo}")
+print(f"El cuadrado del número {numero} es '{cuadrado}'")
+print(f"El cubo del número {numero} es '{cubo}'")
 
  
  
