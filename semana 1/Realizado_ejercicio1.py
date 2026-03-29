@@ -18,7 +18,7 @@ modulo = num1 % num2 if num2 != 0 else "No se puede dividir entre 0"
 print("=== CALCULADORA ===")
 print(f"Suma: {num1} + {num2} = {suma}")
 print(f"Resta: {num1} - {num2} = {resta}")
-print(f"Multiplicación: {num1} * {num2} = {multiplicacion}")
+print(f"Multiplicación: {num1} x {num2} = {multiplicacion}")
 print(f"División: {num1} / {num2} = {division}")
 print(f"División entera: {num1} // {num2} = {div_entera}")
 print(f"Residuo: {num1} % {num2} = {modulo}")
