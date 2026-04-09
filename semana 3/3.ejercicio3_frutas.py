@@ -44,9 +44,7 @@ if len(compras) > 0:
         print(i)
 else:
     print("Lista de compras vacía.")
-
-
-# 1:37
+    
 
 
 
