@@ -9,6 +9,5 @@ class Libro:
 
 libro1 = Libro("Cien años de soledad", "Gabriel García Márquez")
         
-
 libro1.mostrar_info()
 
